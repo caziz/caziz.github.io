@@ -1,3 +1,37 @@
-.project-header {
-    text-indent: 20px;
+.section-header {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.image-mod {
+    box-shadow: gray 5px 5px 5px;
+    border-radius: 10px;
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-mod-small {
+    box-shadow: gray 5px 5px 5px;
+    border-radius: 10px;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.h-dark {
+	border-top: 5px solid green;
+	border-color: green;
+}
+
+.about-me {
+    padding-bottom: 50px;
+}
+
+.projects {
+    padding-top: 50px;
 }
