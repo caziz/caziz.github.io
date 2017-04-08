@@ -23,6 +23,11 @@
     margin: 0 auto;
 }
 
+.image-icon {
+    width: 25px;
+    height: auto;
+}
+
 .h-dark {
 	border-top: 5px solid green;
 	border-color: green;
