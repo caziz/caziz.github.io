@@ -41,7 +41,8 @@ a {
     .btn {
       padding: 0.6rem 0.9rem;
       font-size: 0.9rem; } }
-  @media screen and (max-width: 42em) {
+  /* @media screen and (max-width: 42em) { */
+  @media screen and (max-width: 21em) {
     .btn {
       display: block;
       width: 100%;
@@ -91,8 +92,7 @@ a {
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-tagline {
       font-size: 1.15rem; } }
-  /* @media screen and (max-width: 42em) { */
-  @media screen and (max-width: 21em) {
+  @media screen and (max-width: 42em) {
     .project-tagline {
       font-size: 1rem; } }
 
