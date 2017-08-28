@@ -14,6 +14,15 @@
     margin: 0 auto;
 }
 
+.image-mod-app-icon {
+    box-shadow: gray 5px 5px 5px;
+    border-radius: 54px;
+    width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .image-mod-small {
     box-shadow: gray 5px 5px 5px;
     border-radius: 10px;
