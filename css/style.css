@@ -6,7 +6,7 @@
 
 .image-mod {
     box-shadow: gray 5px 5px 5px;
-    border-radius: 10px;
+    border-radius: 3%;
     width: 75%;
     height: auto;
     display: block;
@@ -24,7 +24,7 @@
 
 .image-mod-small {
     box-shadow: gray 5px 5px 5px;
-    border-radius: 10px;
+    border-radius: 3%;
     width: 50%;
     height: auto;
     display: block;
