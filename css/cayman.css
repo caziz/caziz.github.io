@@ -95,6 +95,8 @@ a {
       font-size: 1.25rem; } }
 
 .main-content {
+  max-width: 900px;
+  margin: auto;
   word-wrap: break-word; }
   .main-content :first-child {
     margin-top: 0; }
