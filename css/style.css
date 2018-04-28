@@ -5,7 +5,7 @@
 }
 
 .image-mod {
-    box-shadow: gray 5px 5px 5px;
+    box-shadow: gray 3px 3px 3px 3px;
     border-radius: 3%;
     width: 75%;
     height: auto;
@@ -14,7 +14,7 @@
 }
 
 .image-mod-app-icon {
-    box-shadow: gray 5px 5px 5px;
+    box-shadow: gray 3px 3px 3px 3px;
     border-radius: 22%;
     width: 30%;
     height: auto;
@@ -23,7 +23,7 @@
 }
 
 .image-mod-small {
-    box-shadow: gray 5px 5px 5px;
+    box-shadow: gray 3px 3px 3px 3px;
     border-radius: 3%;
     width: 50%;
     height: auto;
